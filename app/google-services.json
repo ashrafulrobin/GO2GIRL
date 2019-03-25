@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "616503037545",
+    "firebase_url": "https://go2girl3-f422a.firebaseio.com",
+    "project_id": "go2girl3-f422a",
+    "storage_bucket": "go2girl3-f422a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616503037545:android:00eda874a0fdb1b7",
+        "android_client_info": {
+          "package_name": "com.example.shiva.try1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616503037545-tqflhctfv3nvc4fei3mbkqi1icbhh9tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shiva.try1",
+            "certificate_hash": "8ceb588e65196e8be38891b4ca606b8284ae9df0"
+          }
+        },
+        {
+          "client_id": "616503037545-c0mlbl1689objv0o9rocam65mb4thmpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyijSz8zvjd05Tl0kjXIDBiYRU_epXI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616503037545-c0mlbl1689objv0o9rocam65mb4thmpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

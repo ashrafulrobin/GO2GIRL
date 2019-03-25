@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Go2Girl</string>
+
+    <string name="option1">Cleaning</string>
+    <string name="option2">Errands</string>
+
+    <string name="option3">Childcare</string>
+
+    <string name="option4">Events</string>
+
+    <array name="genres">
+
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>Folk</item>
+
+    </array>
+
+</resources>
